@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ismailmare/Desktop/AndroidStudioProjects/LonleyTwitter/app/src/include/jest-droid-2.0.1-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1199e84d8d3907b8262330dd6976ce04d37f6de">
+        <dex dex="/Users/ismailmare/Desktop/AndroidStudioProjects/LonleyTwitter/app/build/intermediates/pre-dexed/debug/jest-droid-2.0.1-SNAPSHOT-7e54bcc9584c6a4a7bd45054868e5482ec40c344.jar" />
+    </item>
+
+</items>
